@@ -1,0 +1,19 @@
+name: estip-estimation-pipeline
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy>=2.4,<3
+  - pandas>=3.0,<4
+  - scipy>=1.17,<2
+  - scikit-learn>=1.9,<2
+  - xgboost>=3.2,<4
+  - shap>=0.51,<1
+  - geopandas>=1.1,<2
+  - matplotlib>=3.11,<4
+  - seaborn>=0.13,<1
+  - python-graphviz
+  - openpyxl
+  - pyyaml
+  - jupyterlab
+  - ipywidgets

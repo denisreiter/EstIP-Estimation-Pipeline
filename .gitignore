@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+scratch.py
+dist/
+build/
+*.ipynb_checkpoints/
+
+# Environments
+.venv/
+
+# VS Code
+.vscode/
+
+# Data
+*.gdb/
+*.gpkg
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Other
+_archive/
