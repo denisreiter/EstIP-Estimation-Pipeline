@@ -1,5 +1,6 @@
 # EstIP-Estimation-Pipeline
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23558309.svg)](https://doi.org/10.5281/zenodo.23558309)  
 Developed at [IOER](https://www.ioer.de/en/)  
 Copyright © Denis Reiter, Dresden, 2026  
 All rights reserved.
@@ -115,4 +116,4 @@ Notebooks `test.ipynb` and `analysis.ipynb` are using the same `eval_config.yaml
 
 
 ## Citation 
-Reiter, Denis (2026): EstIP-Estimation-Pipeline (Version 0.1.0) [Software]. https://github.com/denisreiter/EstIP-Estimation-Pipeline
+Reiter, D. (2026). EstIP-Estimation-Pipeline (Version 0.1.0) [Computer software]. https://doi.org/10.5281/zenodo.23558309
